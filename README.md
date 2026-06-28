@@ -115,7 +115,6 @@ Titanic-ML-Project/
 ## 🚀 How to Run
 
 1. Clone the repository
-git clone https://github.com/yourusername/Titanic-ML-Project.git
 2. Open the project in Google Colab or Jupyter Notebook.
 3. Install dependencies.
 pip install -r requirements.txt
